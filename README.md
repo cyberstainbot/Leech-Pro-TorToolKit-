@@ -6,7 +6,7 @@
 
 ## **Don't Kill Heroku please ☹️**
 
-[![MAXX LEECH](https://telegra.ph/file/29d788a656dd517eafd0a.png)](https://telegram.dog/MaxxBots)
+[![MAXX LEECH](https://telegra.ph/file/29d788a656dd517eafd0a.png)](https://youtu.be/z_xf1HzCex0)
 
 
 
@@ -163,7 +163,7 @@
 <p><a href="https://github.com/MaxxRider/Leech-Pro/wiki/Deploy-To-Heroku"> <img src=https://img.shields.io/badge/Deploy%20Guide-blueviolet?style=for-the-badge&logo=heroku" width="200"</a></p>
 
 
-[![MaxxRider](https://telegra.ph/file/aac59f2f35ee73b63019e.png)](https://telegram.dog/MaxxRiderz)
+[![MaxxRider](https://telegra.ph/file/aac59f2f35ee73b63019e.png)](https://youtu.be/z_xf1HzCex0)
 
     
 ## CREDITS
